@@ -1,4 +1,5 @@
-# Pulse-OAB
+# LUMI FIN : Transforming Financial Insights with AI
+_**An AI-Powered Financial Document Analysis Tool**_
 
 ## Overview
 This is a powerful tool/approach designed to analyze and extract insights from company annual reports
@@ -111,10 +112,13 @@ Pulse-OAB/
 |-- __pycache__
 ```
 
+## Project Rationale
+Check out [Project Report](https://github.com/shoryasethia/Pulse-OAB/blob/main/Report.pdf) for details.
+
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shoryasethia/Pulse-OAB/blob/main/LICENSE) file for details.
 
 ## Support
 For any issues or questions, please open an issue in the [GitHub repository](https://github.com/shoryasethia/Pulse-OAB/issues).
----
+
 
