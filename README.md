@@ -1,7 +1,7 @@
 # Pulse-OAB
 
 ## Overview
-Pulse-OAB is a powerful tool designed to analyze and extract insights from company annual reports. It supports both Qwen and Gemini models for query resolution and features a knowledge graph for advanced graph-based responses. Outputs include detailed results saved locally, a user-friendly Streamlit interface, and graph-based terminal interactions.
+This is a powerful tool/approach designed to analyze and extract insights from company annual reports
 
 ## Prerequisites
 - Python 3.8 or higher
@@ -29,9 +29,12 @@ Place the `Annual Report (.pdf)` of a company in the `data/pdfs/` directory.
 python app.py
 ```
 #### b. Using Gemini Model
+In `.env`, add your `GOOGLE_API_KEY`, if using `gemini.py`
 ```bash
 python gemini.py
 ```
+
+
 - **Output**: Results will be saved in the `output/` directory.
 
 ### 3. Knowledge Graph Interaction
@@ -40,6 +43,7 @@ This launches a Streamlit application for a user-friendly Q&A chatbot experience
 ```bash
 streamlit run main.py
 ```
+NOTE: To switch off debug mode, set `level = "info"` in `.streamlit/config.toml`
 #### b. Graph Response in Terminal
 Run the following command for graph-based terminal responses. Ensure you edit the query and select the appropriate mode of search (`local`, `naive`, `global`, `hybrid`) as per your requirements.
 ```bash
