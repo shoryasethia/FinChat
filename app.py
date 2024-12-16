@@ -225,7 +225,6 @@ def load_tabel_transformer():
     return model, processor
 
 # Function to convert PDF pages to images within a range
-# Function to convert PDF pages to images within a range
 def pdf_to_images(pdf_path, start_page=0, end_page=None):
     doc = fitz.open(pdf_path)
     images = []

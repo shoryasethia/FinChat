@@ -15,7 +15,7 @@ IMAGES_DIR = r'output/images/'
 INPUT_DATA = r'output/parquet/extracted_texts_and_imgs.parquet'
 
 
-MANUALS_DIR = "/nfs/kundeshwar/surajKuralGPT/s2/LightRAG++/data/pdfs"
+MANUALS_DIR = "data/pdfs"
 
 
 
