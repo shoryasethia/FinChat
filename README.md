@@ -115,6 +115,8 @@ Pulse-OAB/
 ## Project Rationale
 Check out [Project Report](https://github.com/shoryasethia/Pulse-OAB/blob/main/Report.pdf) for details.
 
+## Demo
+Check out streamlit [demo](https://github.com/shoryasethia/Pulse-OAB/blob/main/streamlit-demo.mp4)
 ## To view results of `to-html`
 > These code files are to create an .html page of past 10 years annual reports for faster analysis and data excess. This html page shows the annual report and have download buttons to download tables in excel format.
 
