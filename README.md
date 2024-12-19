@@ -11,8 +11,8 @@ This is a powerful tool/approach designed to analyze and extract insights from c
 
 ## Clone Repository
 ```bash
-git clone https://github.com/shoryasethia/Pulse-OAB.git
-cd Pulse-OAB
+git clone https://github.com/shoryasethia/FinChat.git
+cd FinChat
 ```
 
 ## Install Dependencies
@@ -53,7 +53,7 @@ python graph-rag.py
 
 ## Project Structure
 ```
-Pulse-OAB/
+FinChat/
 |-- .gitignore
 |-- .streamlit
    |-- config.toml
@@ -113,19 +113,19 @@ Pulse-OAB/
 ```
 
 ## Project Rationale
-Check out [Project Report](https://github.com/shoryasethia/Pulse-OAB/blob/main/Report.pdf) for details.
+Check out [Project Report](https://github.com/shoryasethia/FinChat/blob/main/Report.pdf) for details.
 
 ## Demo
-Check out streamlit [demo](https://github.com/shoryasethia/Pulse-OAB/blob/main/streamlit-demo.mp4)
+Check out streamlit [demo](https://github.com/shoryasethia/FinChat/blob/main/streamlit-demo.mp4)
 ## To view results of `to-html`
 > These code files are to create an .html page of past 10 years annual reports for faster analysis and data excess. This html page shows the annual report and have download buttons to download tables in excel format.
 
 Page Url : [http://103.42.51.135/drereddy.html](http://103.42.51.135/drereddy.html)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/shoryasethia/Pulse-OAB/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shoryasethia/FinChat/blob/main/LICENSE) file for details.
 
 ## Support
-For any issues or questions, please open an issue in the [GitHub repository](https://github.com/shoryasethia/Pulse-OAB/issues).
+For any issues or questions, please open an issue in the [GitHub repository](https://github.com/shoryasethia/FinChat/issues).
 
 
