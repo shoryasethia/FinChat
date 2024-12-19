@@ -1,4 +1,4 @@
-# LUMI FIN : Transforming Financial Insights with AI
+# Transforming Financial Insights with AI
 _**An AI-Powered Financial Document Analysis Tool**_
 
 ## Overview
